@@ -37,4 +37,13 @@ Apreeender comandos git
 ![Logo do java](url da imagem) 
 
 ## Links
-[Google](https://wwgoogle.pt)
+[Google](https://www.google.pt)
+
+## Inserire codigo
+```javascripts
+function soma(a , b){
+    return a + b
+}
+ ```
+
+
