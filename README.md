@@ -1,2 +1,6 @@
-# curso_git_1
-Repositorio para curso de git
+# Curso git
+Apreendendo git e github
+
+## Funcionalidade
+
+Apreeender comandos git
