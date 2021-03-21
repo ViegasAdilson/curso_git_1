@@ -13,15 +13,18 @@ Apreeender comandos git
 ###### H6
 
 ## Neglito
-
 **texto neglito** __texto neglito__,
 
 ## Italico
-
 *texto italico*  _texto italico_ 
 
-## Lista
-
+## Lista nao ordenada
 * html
 * javascripts
 * python
+
+## Lista ordenada
+
+1. java
+2. htmal
+3. mysql
