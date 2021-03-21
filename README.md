@@ -24,9 +24,11 @@ Apreeender comandos git
 * python
 
 ## Lista ordenada
-
 1. java
 2. htmal
     1. css
     2. javascripts
 3. mysql
+
+## Imagem local
+![Logo Python](img/python.jpg)
