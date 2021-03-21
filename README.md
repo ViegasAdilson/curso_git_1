@@ -12,16 +12,16 @@ Apreeender comandos git
 ##### H5
 ###### H6
 
-##Neglito
+## Neglito
 
 **texto neglito** __texto neglito__,
 
-##Italico
+## Italico
 
 *texto italico*  _texto italico_ 
 
-##Lista
+## Lista
 
-*html
-*javascripts
-*python
+* html
+* javascripts
+* python
