@@ -12,5 +12,6 @@ Apreeender comandos git
 ##### H5
 ###### H6
 
-**texto neglito** __texto neglito__
+**texto neglito** __texto neglito__,
+
 *texto italico*  _texto italico_ 
