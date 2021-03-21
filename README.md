@@ -45,5 +45,8 @@ function soma(a , b){
     return a + b
 }
  ```
-
+ 
+ ## Lista de tarefa a fazer
+ - [x] tarefas concluidas
+ - [] tarefas nao concluidas
 
